@@ -5,3 +5,4 @@ pdfs_exemplo
 build
 dist
 *.spec
+.pylintrc
